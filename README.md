@@ -11,12 +11,12 @@
 
 This project can be run using Python version 3.*, and there are no additional libraries beyond the Anaconda distribution that are required. Ensure the following packages are installed before running the code:
 
-1.pandas
-2.numpy
-3.matplotlib
-4.seaborn
-5.scikit-learn
-6.statsmodels
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. scikit-learn
+6. statsmodels
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -46,5 +46,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+I must give credit to Centers for Medicare and Medicaid Services (CMS) for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://data.cms.gov/provider-data/dataset/9n3s-kdb3#data-table).  Otherwise, feel free to use the code here as you would like! 
 
