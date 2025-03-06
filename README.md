@@ -25,14 +25,13 @@ Hospital readmissions are a significant challenge, both financially and in terms
 
 To address this, the Centers for Medicare and Medicaid Services (CMS) implemented the Hospital Readmission Reduction Program (HRRP), penalising hospitals with excessive readmissions. This has created an urgent need for data-driven strategies to predict and mitigate readmission risks.
 
-This project aims to analyse the CMS HRRP dataset using the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology to answer three key questions:
+The goal of this project is to assist CMS hospitals in reducing avoidable readmissions, which have both medical and financial consequences. By answering the key business questions, we aim to:
 
-1. What factors drive hospital readmissions?
-2. Can we accurately predict readmission rates?
-3. Can we classify hospitals at risk of high readmissions and penalties?
+1. Identify the most influential factors contributing to readmissions, enabling hospitals to focus on these areas for improvement.
+2. Develop predictive models to forecast the number of readmissions, allowing hospitals to allocate resources effectively.
+3. Classify hospitals at risk of high readmission volumes, thus helping prevent penalties by warning those with the greatest need for intervention.
 
-By leveraging machine learning regression and classification models, this study seeks to provide actionable insights that empower CMS hospitals to reduce readmissions, improve patient outcomes, and minimise financial penalties.
-
+This project uses the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology, leveraging both regression and classification models to meet these goals. The dataset used for analysis is the CMS HRRP dataset, which contains hospital-level data related to readmissions from 2020-2023.
 
 ## File Descriptions <a name="files"></a>
 
