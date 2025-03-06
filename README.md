@@ -9,7 +9,14 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+This project can be run using Python version 3.*, and there are no additional libraries beyond the Anaconda distribution that are required. Ensure the following packages are installed before running the code:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
 
 ## Project Motivation<a name="motivation"></a>
 
