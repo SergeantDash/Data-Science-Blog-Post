@@ -20,9 +20,9 @@ To address this, the Centers for Medicare and Medicaid Services (CMS) implemente
 
 This project aims to analyse the CMS HRRP dataset using the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology to answer three key questions:
 
-What factors drive hospital readmissions?
-Can we accurately predict readmission rates?
-Can we classify hospitals at risk of high readmissions and penalties?
+1. What factors drive hospital readmissions?
+2. Can we accurately predict readmission rates?
+3. Can we classify hospitals at risk of high readmissions and penalties?
 
 By leveraging machine learning regression and classification models, this study seeks to provide actionable insights that empower CMS hospitals to reduce readmissions, improve patient outcomes, and minimise financial penalties.
 
