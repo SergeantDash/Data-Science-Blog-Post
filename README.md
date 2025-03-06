@@ -11,12 +11,12 @@
 
 This project can be run using Python version 3.*, and there are no additional libraries beyond the Anaconda distribution that are required. Ensure the following packages are installed before running the code:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-statsmodels
+1.pandas
+2.numpy
+3.matplotlib
+4.seaborn
+5.scikit-learn
+6.statsmodels
 
 ## Project Motivation<a name="motivation"></a>
 
