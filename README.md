@@ -21,9 +21,7 @@ This project can be run using Python version 3.*, and there are no additional li
 ## Project Motivation<a name="motivation"></a>
 
 Project Motivation
-Hospital readmissions are a significant challenge, both financially and in terms of patient care. Nearly 20% of Medicare patients are readmitted within 30 days, costing the healthcare system $20 billion annually. High readmission rates often signal suboptimal care, poor discharge planning, or gaps in post-hospital support.
-
-To address this, the Centers for Medicare and Medicaid Services (CMS) implemented the Hospital Readmission Reduction Program (HRRP), penalising hospitals with excessive readmissions. This has created an urgent need for data-driven strategies to predict and mitigate readmission risks.
+Hospital readmissions are a significant challenge, both financially and in terms of patient care. Nearly 20% of Medicare patients are readmitted within 30 days, costing the healthcare system $20 billion annually. High readmission rates often signal suboptimal care, poor discharge planning, or gaps in post-hospital support.To address this, the Centers for Medicare and Medicaid Services (CMS) implemented the Hospital Readmission Reduction Program (HRRP), penalising hospitals with excessive readmissions. This has created an urgent need for data-driven strategies to predict and mitigate readmission risks.
 
 The goal of this project is to assist CMS hospitals in reducing avoidable readmissions, which have both medical and financial consequences, by answering these key business questions:
 
