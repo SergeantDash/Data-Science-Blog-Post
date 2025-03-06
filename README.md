@@ -36,10 +36,13 @@ By leveraging machine learning regression and classification models, this study 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+This project consists of two main Jupyter Notebooks and a README file that showcase the analysis of the CMS HRRP (Hospital Readmissions Reduction Program) dataset. The notebooks focus on answering key business questions about predicting and classifying hospital readmissions. Here are the details of the files:
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+1. Regression_model.ipynb: This notebook covers the regression task, which predicts the Number of Readmissions at CMS hospitals. The notebook explores the correlation between features and the target variable, applies feature selection techniques, and builds regression models like Random Forest Regression, Linear Regression, and Decision Tree Regression. The goal is to identify the most important features and accurately predict the number of readmissions based on hospital characteristics.
 
+2. Classification_model.ipynb: This notebook focuses on building a classification model to predict which hospitals are at risk of high readmission volumes, which could lead to penalties. It involves the creation of a target variable for high readmission volume and the implementation of classification models such as XGBoost and Random Forest. Key steps include feature selection, model training, and evaluation, with the aim to classify hospitals that are likely to face penalties due to excessive readmissions.
+
+3. README.md: This file, which you are currently reading, provides an overview of the project, the business questions addressed, the data understanding and preparation steps, modeling techniques used, and the evaluation of both the regression and classification models.
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@yudeshsubas/a-deep-dive-into-hospital-readmission-reduction-2252ba8838c1).
