@@ -13,15 +13,18 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+Project Motivation
+Hospital readmissions are a significant challenge, both financially and in terms of patient care. Nearly 20% of Medicare patients are readmitted within 30 days, costing the healthcare system $20 billion annually. High readmission rates often signal suboptimal care, poor discharge planning, or gaps in post-hospital support.
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+To address this, the Centers for Medicare and Medicaid Services (CMS) implemented the Hospital Readmission Reduction Program (HRRP), penalising hospitals with excessive readmissions. This has created an urgent need for data-driven strategies to predict and mitigate readmission risks.
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+This project aims to analyse the CMS HRRP dataset using the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology to answer three key questions:
+
+What factors drive hospital readmissions?
+Can we accurately predict readmission rates?
+Can we classify hospitals at risk of high readmissions and penalties?
+
+By leveraging machine learning regression and classification models, this study seeks to provide actionable insights that empower CMS hospitals to reduce readmissions, improve patient outcomes, and minimise financial penalties.
 
 
 ## File Descriptions <a name="files"></a>
@@ -32,7 +35,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@yudeshsubas/a-deep-dive-into-hospital-readmission-reduction-2252ba8838c1).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
