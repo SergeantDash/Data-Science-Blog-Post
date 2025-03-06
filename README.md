@@ -25,7 +25,7 @@ Hospital readmissions are a significant challenge, both financially and in terms
 
 To address this, the Centers for Medicare and Medicaid Services (CMS) implemented the Hospital Readmission Reduction Program (HRRP), penalising hospitals with excessive readmissions. This has created an urgent need for data-driven strategies to predict and mitigate readmission risks.
 
-The goal of this project is to assist CMS hospitals in reducing avoidable readmissions, which have both medical and financial consequences. By answering the key business questions, we aim to:
+The goal of this project is to assist CMS hospitals in reducing avoidable readmissions, which have both medical and financial consequences, by answering these key business questions:
 
 1. Identify the most influential factors contributing to readmissions, enabling hospitals to focus on these areas for improvement.
 2. Develop predictive models to forecast the number of readmissions, allowing hospitals to allocate resources effectively.
